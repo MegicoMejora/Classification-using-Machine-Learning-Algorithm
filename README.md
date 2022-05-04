@@ -34,12 +34,14 @@ Experimented with different Machine Learning Algorithms and a  model was selecte
 
 3. SVM
 
+Three models were trained and validated and the best model was tested using the test dataset.
+
+The explanation can be found from the Juypter Notebook.
+
 ### 4. Building Pipeline
 
 Pipeline was built to orchestrate the flow of data into and out of the model. Here the constructed Pipeline has Data Preprocessing step SimpleImputer and Model Selection step with the selected classifier Decision Tree. Then the model was fit to the Pipeline.
 
 
 
-Three models were trained and validated and the best model was tested using the test dataset.
 
-The explanation can be found from the Juypter Notebook.
